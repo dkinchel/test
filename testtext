@@ -1,0 +1,24 @@
+/** Returns true if this linked list contains the element e, otherwise returns false.*/
+  public boolean contains(E e) {
+     
+  }
+
+  /** Returns the element at specified index of this list, returns null if index is invalid. */
+  public E get(int index) {    
+ 
+  }
+
+  /** Returns the index of the first matching element in this linked list, return -1 if no match. */
+  public int indexOf(E e) {
+ 
+  }
+
+  /** Returns the index of the last matching element in this list, returns -1 if no match. */
+  public int lastIndexOf(E e) {
+ 
+  }
+
+  /** Replaces the element at specified index in this linked list with the specified element.  Returns the old element at specified index, otherwise returns null if index is invalid. */
+  public E set(int index, E e) {
+ 
+  }
